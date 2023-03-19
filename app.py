@@ -41,4 +41,4 @@ def predict_placement():
 #     else:
 #         return "<h1 style='color:red'>NOT PLACED</h1>"   
 
-app.run(debug=True,port=5005)
+app.run(port=8080)
